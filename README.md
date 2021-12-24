@@ -1,2 +1,2 @@
-# RelicsofHyruleDragonborn_KID
-Relics of Hyrule Community Works on Keyword Item Distributor File.
+# Keyword Item Distributor Repository
+Webmetz and others Works on Keyword Item Distributor File.
